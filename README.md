@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @trtullu
-- 👀 I’m interested in neuroscience/bioinformatic tools :)
+- 👀 I’m interested in neuroscience/bioinformatic tools
 - 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
